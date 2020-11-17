@@ -1,1 +1,2 @@
-# CB2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
